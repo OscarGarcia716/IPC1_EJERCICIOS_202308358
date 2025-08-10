@@ -3,4 +3,4 @@
 Repositorio de ejercicios que realizo en el laboratorio de IPC1
 |Carnet|Nombre|Seccion|
 |------|------|-------|
-|<<202308358>>|<<Oscar Robereto Garcia Mendez>>|<<"A">>|
+|<<202308358>>|<<Oscar_Roberto_Garcia_Mendez>>|<<"A">>|
